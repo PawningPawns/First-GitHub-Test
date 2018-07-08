@@ -34,4 +34,4 @@ foo1 = Transaction(sale_input, sale_discount)
 
 foo1.print_value()
 
-print('{} total, {} discount'.format(
+print('{} total, {} discount'.format(foo1.total, foo1.discount))
