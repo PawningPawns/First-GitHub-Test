@@ -72,7 +72,7 @@ class gamelog:
 
 
     def y_movement(self):
-
+    pass
 
 
     # Orientation of sprite according to key pressed
